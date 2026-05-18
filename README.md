@@ -1,5 +1,6 @@
 # smart-irrigation-system
-![Project Photo](<img width="720" height="1280" alt="lcd" src="https://github.com/user-attachments/assets/15dcb2d2-40fc-4102-96a8-73b535caeda4" />
+![Project Photo](<img width="1280" height="960" alt="smart" src="https://github.com/user-attachments/assets/1eeff43e-f48b-4115-9eb3-56f14d55e847" />
+
 
 this project main function is plant irrigating and monitoring system using esp32s3and arduino uno which basically reduces human labour 
 components=arduino uno
