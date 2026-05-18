@@ -12,8 +12,8 @@
 
 
 this project main function is plant irrigating and monitoring system using esp32s3and arduino uno which basically reduces human labour 
-components=arduino uno
 ## Components
+          -arduino unox2
            -esp 32
            - mq smoke sensor=smoke and fire detection
            -soil moist sendor=soilmoisture
